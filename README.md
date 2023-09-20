@@ -32,4 +32,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For inquiries or suggestions, please contact at contact.harisfirdous@email.com
+For inquiries or suggestions, please contact at contact.harisfirdous@gmail.com
