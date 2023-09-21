@@ -11,7 +11,7 @@ Offers insights into public opinion and sentiment trends.
 Getting Started
 Clone this repository to your local machine.
 Ensure you have Python installed (Python 3.6 or higher).
-Install the required libraries listed in the requirements.txt file using pip install -r requirements.txt.
+
 Place your CSV file with social media comments data in the project directory.
 Usage
 Open the Jupyter Notebook or Visual Studio Code environment.
@@ -20,7 +20,6 @@ The project will retrieve data from your CSV file and perform sentiment analysis
 File Structure
 sentiment.csv: The CSV file containing social media comments data.
 sentiment_analysis.ipynb: The Jupyter Notebook file with the code for sentiment analysis.
-requirements.txt: A list of Python libraries required for running the project.
 Contributing
 Contributions to this project are welcome. Please follow the standard GitHub workflow:
 
